@@ -1,0 +1,32 @@
+version: 1.0
+
+unet:  
+  sample_size: [1]
+  # spec_dim: 100
+  in_channels: 102
+  out_channels: 1
+  layers_per_block: 2
+  block_out_channels: [256, 256, 256]
+  down_block_types: 
+    ["DownBlock1D",
+    "AttnDownBlock1D",
+    "AttnDownBlock1D",
+    ]
+  up_block_types:
+    ["AttnUpBlock1D",
+    "AttnUpBlock1D",
+    "UpBlock1D",
+    ]
+
+ddpm:
+  num_train_steps: 1000
+  inference_steps: 100
+  eta: 0.8
+
+logmel:
+  n_mels: 100
+  sampling_rate: 24000
+  n_fft: 1024
+  hop_size: 256
+  max: 2.5
+  min: -12
