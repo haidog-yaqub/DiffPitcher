@@ -6,5 +6,5 @@
 
 ## Status and Todo
 - [x] Update codes
-- [ ] Release Checkpoints
+- [ ] Release checkpoints
 - [ ] Colab tutorial page
