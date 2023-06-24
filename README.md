@@ -2,8 +2,6 @@
 
 🎵[Demo Page](https://diffpitcher.github.io/demo/)
 
-💻[DiffPitcher Pytorch Implementation](https://github.com/DiffPitcher/DiffPitcher)
-
 ## Status and Todo
 - [x] Update codes
 - [ ] Release checkpoints
