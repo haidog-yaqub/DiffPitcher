@@ -1,7 +1,7 @@
 # Official Pytorch Implementation of DiffPitcher
 
 ## Status (2021-11-09)
-- [x] fast inference procedure
+- [√] fast inference procedure
 - [x] stable training
 - [x] high-quality synthesis
 - [x] mixed-precision training
