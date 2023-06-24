@@ -1,3 +1,3 @@
-### Official Pytorch Implementation of DiffPitcher
+# Official Pytorch Implementation of DiffPitcher
 - in preparation
 
