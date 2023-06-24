@@ -7,4 +7,4 @@
 ## Status and Todo
 - [x] Update codes
 - [ ] Release checkpoints
-- [ ] Colab tutorial page
+- [ ] Colab pipeline tutorial
