@@ -2,6 +2,12 @@
 
 Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf) (💻WIP)
 
+--------------------
+
+<img src="img\diffPitcher.jpg" width="300px">
+
+Diff-Pitcher
+
 - [Demo](##demo)
 - [References](##todo)
 - [References](##references)
