@@ -4,7 +4,7 @@ Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lc
 
 --------------------
 
-<img src="img\diffPitcher.jpg" width="300px">
+<img src="img\diffpitcher.jpg" width="300px">
 
 Diff-Pitcher
 
