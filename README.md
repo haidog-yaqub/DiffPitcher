@@ -18,9 +18,10 @@ Diff-Pitcher  (💻WIP)
 🎵Listen to [examples](https://diffpitcher.github.io/demo/)
 
 ## Todo
-- [x] Update codes
-- [ ] Release checkpoints
-- [ ] Colab pipeline tutorial
+- [x] Update codes and demo
+- [x] Support 🤗 [Diffusers](https://github.com/huggingface/diffusers)
+- [ ] Upload checkpoints
+- [ ] Pipeline tutorial
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
 ## References
 If you find the code useful for your research, please consider citing:
