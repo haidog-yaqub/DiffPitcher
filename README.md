@@ -9,7 +9,7 @@ Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lc
 Diff-Pitcher  (💻WIP)
 
 - [Demo](##demo)
-- [References](##todo)
+- [Todo](##todo)
 - [References](##references)
 - [Acknowledgement](##acknowledgement)
 
