@@ -15,7 +15,7 @@ Diff-Pitcher  (💻WIP)
 
 ## Demo
 
-🎵 Listen to [examples](https://diffpitcher.github.io/demo/)
+🎵 Listen to [examples](https://jhu-lcap.github.io/Diff-Pitcher/)
 
 ## Todo
 - [x] Update codes and demo
