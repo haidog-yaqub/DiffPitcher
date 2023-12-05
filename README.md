@@ -1,6 +1,6 @@
 # Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
 
-Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf)
+Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf)
 
 --------------------
 
@@ -15,7 +15,7 @@ Diff-Pitcher  (💻WIP)
 
 ## Demo
 
-🎵Listen to [examples](https://diffpitcher.github.io/demo/)
+🎵 Listen to [examples](https://diffpitcher.github.io/demo/)
 
 ## Todo
 - [x] Update codes and demo
