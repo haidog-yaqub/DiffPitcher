@@ -41,8 +41,9 @@ def get_mel(wav_path):
     return log_mel_spectrogram
 
 
-def get_world_mel(wav_path, sr=24000):
-    wav, _ = librosa.load(wav_path, sr=24000)
+def get_world_mel(wav_path=None, sr=24000, wav=None):
+    if wav_path is not None:
+        wav, _ = librosa.load(wav_path, sr=24000)
     wav = (wav * 32767).astype(np.int16)
     wav = (wav / 32767).astype(np.float64)
     # wav = wav.astype(np.float64)
