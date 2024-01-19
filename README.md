@@ -20,8 +20,8 @@ Diff-Pitcher  (💻WIP)
 ## Todo
 - [x] Update codes and demo
 - [x] Support 🤗 [Diffusers](https://github.com/huggingface/diffusers)
-- [ ] Upload checkpoints
-- [ ] Pipeline tutorial
+- [x] Upload checkpoints
+- [x] Pipeline tutorial
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
 ## References
 If you find the code useful for your research, please consider citing:
