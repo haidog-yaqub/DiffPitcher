@@ -8,7 +8,7 @@ from .modules import LinearAttention, Residual, Timesteps, TimbreBlock, PitchPos
 from einops import rearrange
 
 
-class UNetVC(BaseModule):
+class UNetPitcher(BaseModule):
     def __init__(self,
                  dim_base,
                  dim_cond,
@@ -18,7 +18,7 @@ class UNetVC(BaseModule):
                  dim_mults=(1, 2, 4),
                  pitch_type='bins'):
 
-        super(UNetVC, self).__init__()
+        super(UNetPitcher, self).__init__()
         self.use_ref_t = use_ref_t
         self.use_embed = use_embed
         self.pitch_type = pitch_type
@@ -58,10 +58,10 @@ class UNetVC(BaseModule):
         dim_in += dim_cond
 
         # pitch embedding
-        if self.pitch_type == 'bins':
-            print('using mel bins for f0')
-        elif self.pitch_type == 'log':
-            print('using log bins f0')
+        # if self.pitch_type == 'bins':
+        #     print('using mel bins for f0')
+        # elif self.pitch_type == 'log':
+        #     print('using log bins f0')
 
         dims = [dim_in, *map(lambda m: dim_base * m, dim_mults)]
         in_out = list(zip(dims[:-1], dims[1:]))
@@ -103,8 +103,6 @@ class UNetVC(BaseModule):
 
         x = torch.stack([x, mean], 1)
 
-        # if self.pitch_type == 'bins':
-        f0 = f0
         f0 = self.pitch_pos_emb(f0)
         f0 = self.pitch_mlp(f0)
         f0 = f0.unsqueeze(2)
