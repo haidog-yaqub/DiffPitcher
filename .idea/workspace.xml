@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ace0b5a-8225-4a33-80e4-008e632181bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_controller/config/DiffWorld_24k.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_controller/config/DiffWorld_24k.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_controller/dataset/diff_lpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_controller/dataset/diff_lpc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_controller/dataset/diff_lpc_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_controller/dataset/diff_lpc_content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_controller/train_world_tuner_24k.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_controller/train_world_tuner_24k.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_predictor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_predictor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_predictor/data/preprocess_csd.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_predictor/data/preprocess_csd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_predictor/dataset/diffpitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_predictor/dataset/diffpitch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_predictor/train_transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_predictor/train_transformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch_predictor/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch_predictor/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/score_based_apc.py" beforeDir="false" afterPath="$PROJECT_DIR$/score_based_apc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_based_apc.py" beforeDir="false" afterPath="$PROJECT_DIR$/template_based_apc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bAS8sbAkqkKwd0IfqFZXKaxaiB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="score_based_apc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DiffPitcher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/score_based_apc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.score_based_apc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ace0b5a-8225-4a33-80e4-008e632181bf" name="Changes" comment="" />
+      <created>1705656234311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705656234311</updated>
+      <workItem from="1705656236799" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
