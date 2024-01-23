@@ -27,7 +27,7 @@ Diff-Pitcher
 ## Examples
 
 - [x] template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
-- [x] score-based automatic pitch correction: score_based_apc.py
+- [x] score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
 
 ## References
 
