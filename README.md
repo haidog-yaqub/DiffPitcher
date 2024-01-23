@@ -8,11 +8,11 @@ Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice 
 
 Diff-Pitcher
 
-- [Demo](##demo)
-- [Examples](##examples)
-- [Todo](##todo)
-- [References](##references)
-- [Acknowledgement](##acknowledgement)
+- [Demo](## Demo)
+- [Examples](## Examples)
+- [Todo](## Todo)
+- [References](## References)
+- [Acknowledgement](## Acknowledgement)
 
 ## Demo
 
@@ -66,7 +66,7 @@ This repo is inspired by:
 }
 ```
 
-# Acknowledgement
+## Acknowledgement
 
 We borrow code from following repos:
 
