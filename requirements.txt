@@ -1,0 +1,17 @@
+diffusers
+einops
+fastdtw
+librosa
+matplotlib
+music21
+numpy
+pandas
+pretty_midi
+pysptk
+pyworld
+scipy
+soundfile
+tgt
+torch
+torchaudio
+tqdm

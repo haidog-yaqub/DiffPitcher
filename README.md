@@ -9,6 +9,7 @@ Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice 
 Diff-Pitcher  (💻WIP)
 
 - [Demo](##demo)
+- [Examples](##examples)
 - [Todo](##todo)
 - [References](##references)
 - [Acknowledgement](##acknowledgement)
@@ -23,7 +24,13 @@ Diff-Pitcher  (💻WIP)
 - [x] Upload checkpoints
 - [x] Pipeline tutorial
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
+## Examples
+
+- [x] template-based automatic pitch correction: template_based_apc.py
+- [x] score-based automatic pitch correction: score_based_apc.py
+
 ## References
+
 If you find the code useful for your research, please consider citing:
 
 ```bibtex
