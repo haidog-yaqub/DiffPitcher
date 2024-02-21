@@ -75,7 +75,7 @@ if __name__ == "__main__":
     print('Initializing data loaders...')
     train_set = VCDecLPCDataset(args.data_dir, subset='train', content_dir=args.lpc_dir, f0_type=f0_type)
     collate_fn = VCDecLPCBatchCollate(args.train_frames)
-    train_loader = DataLoader(train_set, batch_size=args.batch_size,
+    train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True,
                               collate_fn=collate_fn, num_workers=args.num_workers, drop_last=True)
 
     val_set = VCDecLPCTest(args.data_dir, content_dir=args.lpc_dir, f0_type=f0_type)
