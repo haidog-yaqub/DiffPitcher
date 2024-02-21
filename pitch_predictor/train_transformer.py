@@ -85,7 +85,7 @@ if __name__ == "__main__":
     print('Initializing data loaders...')
     trainset = DiffPitch('data/', 'train', args.train_frames, shift=True)
     train_loader = DataLoader(trainset, batch_size=args.batch_size, num_workers=args.num_workers,
-                              drop_last=True)
+                              drop_last=True, shuffle=True)
 
     val_set = DiffPitch('data/', 'val', args.test_frames, shift=True)
     val_loader = DataLoader(val_set, batch_size=1, shuffle=False)
