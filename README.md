@@ -8,9 +8,9 @@ Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice 
 
 Diff-Pitcher
 
-- [Demo](#demo)
-- [Todo](#todo)
-- [Examples](#examples)
+- [Demo Page](#demo)
+- [Todo List](#todo)
+- [Code Examples](#examples)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 
