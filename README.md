@@ -24,6 +24,7 @@ Diff-Pitcher
 - [x] Upload checkpoints
 - [x] Pipeline tutorial
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
+- [ ] Audio Plugin Support
 ## Examples
 
 - [x] template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
