@@ -4,6 +4,10 @@ Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice 
 
 --------------------
 
+Thank you all for your interest in this research project. I am currently optimizing the model's performance and computation efficiency. I plan to release an open-source version, either a GUI or a VST, in the first half of this year, and will update the open-source license.
+
+--------------------
+
 <img src="img\diffpitcher.jpg" width="300px">
 
 Diff-Pitcher
