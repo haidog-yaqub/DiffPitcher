@@ -32,7 +32,7 @@ Diff-Pitcher
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
 - [ ] Audio Plugin Support
 ## Examples
-- Download checkpoints: [🎒ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
+- Download checkpoints: 🎒[ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
 - template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
 - score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
 
