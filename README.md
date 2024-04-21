@@ -75,6 +75,8 @@ This repo is inspired by:
 
 ## Acknowledgement
 
+[Welcome to LCAP! < LCAP (jhu.edu)](https://engineering.jhu.edu/lcap/)
+
 We borrow code from following repos:
 
  - `Diffusion Schedulers` are based on 🤗 [Diffusers](https://github.com/huggingface/diffusers)
