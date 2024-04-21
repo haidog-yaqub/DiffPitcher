@@ -8,8 +8,6 @@ Thank you all for your interest in this research project. I am currently optimiz
 
 If you are familiar with PyTorch, you can follow [Code Examples](#examples) to use Diff-Pitcher.
 
-Download link of checkpoints: [ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
-
 --------------------
 
 <img src="img\cover.png">
@@ -34,9 +32,9 @@ Diff-Pitcher
 - [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
 - [ ] Audio Plugin Support
 ## Examples
-
-- [x] template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
-- [x] score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
+- Download checkpoints: [🎒ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
+- template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
+- score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
 
 ## References
 
