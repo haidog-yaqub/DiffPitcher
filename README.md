@@ -1,3 +1,5 @@
+<img src="img\cover.png">
+
 # Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
 
 Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf)
@@ -9,8 +11,6 @@ Thank you all for your interest in this research project. I am currently optimiz
 If you are familiar with PyTorch, you can follow [Code Examples](#examples) to use Diff-Pitcher.
 
 --------------------
-
-<img src="img\cover.png">
 
 Diff-Pitcher
 
