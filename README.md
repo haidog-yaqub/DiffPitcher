@@ -33,8 +33,11 @@ Diff-Pitcher
 - [ ] Audio Plugin Support
 ## Examples
 - Download checkpoints: 🎒[ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
-- template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
-- score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
+- Prepare environment: [requirements.txt](requirements.txt)
+- Feel free to try:
+  - template-based automatic pitch correction: [template_based_apc.py](template_based_apc.py)
+  - score-based automatic pitch correction: [score_based_apc.py](score_based_apc.py)
+
 
 ## References
 
