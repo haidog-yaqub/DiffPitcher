@@ -12,7 +12,7 @@ Download link of checkpoints: [ckpts](https://github.com/haidog-yaqub/DiffPitche
 
 --------------------
 
-<img src="img\diffpitcher.jpg" width="300px">
+<img src="img\cover.png">
 
 Diff-Pitcher
 
