@@ -141,7 +141,7 @@ if __name__ == '__main__':
     model.eval()
 
     #  load vocoder
-    hifi_path = 'ckpts/bigvgan_24khz_100band/g_05000000'
+    hifi_path = 'ckpts/bigvgan_24khz_100band/g_05000000.pt'
     hifigan, cfg = load_model(hifi_path, device=device)
     hifigan.eval()
 
