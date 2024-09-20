@@ -2,7 +2,7 @@
 
 # Diff-Pitcher (PyTorch)
 
-Official Pytorch Implementation of [Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf)
+Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf): Diffusion-based Singing Voice Pitch Correction
 
 🤗huggingface link: https://huggingface.co/Higobeatz/Diff-Pitcher
 
