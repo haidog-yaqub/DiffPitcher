@@ -6,33 +6,30 @@ Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lc
 
 🤗 Download model form [huggingface](https://huggingface.co/Higobeatz/Diff-Pitcher)
 
+🎵 Listen to [examples](https://jhu-lcap.github.io/Diff-Pitcher/)
+
 --------------------
 
-Thank you all for your interest in this research project. I am currently optimizing the model's performance and computation efficiency. I plan to release a user-friendly version, either a GUI or a VST, in the first half of this year, and will update the open-source license.
+Thank you all for your interest in this research project. I am currently optimizing the model's performance and computation efficiency. 
 
-If you are familiar with PyTorch, you can follow [Code Examples](#examples) to use Diff-Pitcher.
+A new version of Diff-Pitcher is in development and will feature a user-friendly Hugging Face space.
 
 --------------------
 
 Diff-Pitcher
 
-- [Demo Page](#demo)
 - [Todo List](#todo)
 - [Code Examples](#examples)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
-
-## Demo
-
-🎵 Listen to [examples](https://jhu-lcap.github.io/Diff-Pitcher/)
 
 ## Todo
 - [x] Update codes and demo
 - [x] Support 🤗 [Diffusers](https://github.com/huggingface/diffusers)
 - [x] Upload checkpoints
 - [x] Pipeline tutorial
-- [ ] Merge to [Your-Stable-Audio](https://github.com/haidog-yaqub/Your-Stable-Audio)
-- [ ] Audio Plugin Support
+- [ ] Diff-Pitcher v2 with Huggingface space demo
+
 ## Examples
 - Download checkpoints: 🎒[ckpts](https://github.com/haidog-yaqub/DiffPitcher/tree/main/ckpts)
 - Prepare environment: [requirements.txt](requirements.txt)
