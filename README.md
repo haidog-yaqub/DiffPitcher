@@ -1,8 +1,8 @@
 <img src="img\cover.png">
 
-# Diff-Pitcher (PyTorch)
+# Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
 
-Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf): Diffusion-based Singing Voice Pitch Correction
+Official Pytorch Implementation of [Diff-Pitcher](https://engineering.jhu.edu/lcap/data/uploads/pdfs/waspaa2023_hai.pdf)
 
 🤗 Download model form [huggingface](https://huggingface.co/Higobeatz/Diff-Pitcher)
 
