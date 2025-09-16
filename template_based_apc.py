@@ -23,6 +23,17 @@ def template_pitcher(source, pitch_ref, model, hifigan, steps=50, shift_semi=0):
     f0_ref = get_matched_f0(source, pitch_ref, 'world')
     f0_ref = f0_ref * 2 ** (shift_semi / 12)
 
+    target_length = source_mel.shape[-1]
+    current_length = f0_ref.shape[-1]
+
+    if current_length != target_length:
+        if current_length < target_length:
+            f0_ref = np.pad(f0_ref, (0, target_length - current_length), 'constant', constant_values=0)
+        else:
+            pad_length = current_length - target_length
+            min_val = source_mel.min()
+            source_mel = np.pad(source_mel, ((0, 0), (0, pad_length)), 'constant', constant_values=min_val)
+    
     f0_ref = log_f0(f0_ref, {'f0_bin': 345,
                              'f0_min': librosa.note_to_hz('C2'),
                              'f0_max': librosa.note_to_hz('C#6')})
